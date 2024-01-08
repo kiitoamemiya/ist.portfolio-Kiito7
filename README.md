@@ -12,4 +12,8 @@ git commit -m "commit message"
 git push
 ```
 
+![Tux](IMG_20190123_171317.jpg)
 
+To autocomplete filenames in vim
+- Ctrl+x Ctrl+f
+- Ctrl+n to cycle through options
